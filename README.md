@@ -65,10 +65,11 @@ Cửa hàng **chưa có kênh bán hàng trực tuyến**, nên việc tiếp c�
 - Theo dõi sản phẩm bán chạy, hàng tồn, tỷ lệ hoàn đơn  
 - Xuất báo cáo tổng hợp hỗ trợ nhà quản lý ra quyết định  
 
----
 
 ## 🚀 Chức năng mở rộng (Tùy chọn)
 - Tích hợp thanh toán online (Momo, ZaloPay, VNPay, v.v.)  
 - Tích hợp chatbot hỗ trợ tư vấn khách hàng  
+## 🎨 Thiết kế giao diện (Figma)
+[👉 Xem giao diện trên Figma tại đây](https://www.figma.com/design/dYfm7mhyHffq9Vdd9CZEJW/Thi%E1%BA%BFt-k%E1%BA%BF-m%C3%B4-ph%E1%BB%8Fng-giao-di%E1%BB%87n?node-id=0-1&t=SP31xhIjWROGN8EM-1)
 
 ---
